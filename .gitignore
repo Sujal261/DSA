@@ -1,12 +1,3 @@
-# Ignore all files
-*
-
-# Allow directories (required so Git can recurse into them)
-!*/
-
-# Allow specific files
-!*.cpp
-!*.h
-!.gitignore
-
+.vscode 
+.gitignore
 
